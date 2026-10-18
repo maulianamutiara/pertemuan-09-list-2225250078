@@ -8,4 +8,3 @@ def rata_rata(data):
 nilai = [75, 80, 65, 90, 88]
 
 print(f"Rata-rata = {rata_rata(nilai):.2f}")
-print(f"List kosong = {rata_rata([])}")
