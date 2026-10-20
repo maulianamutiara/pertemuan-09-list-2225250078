@@ -1,4 +1,4 @@
-# Mengakses elemen dan mengambil bagian dari list.
+
 nilai = [75, 80, 65, 90, 88, 70]
 
 print(f"Elemen pertama = {nilai[0]}")

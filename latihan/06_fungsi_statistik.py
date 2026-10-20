@@ -1,4 +1,4 @@
-# Membuat fungsi untuk menghitung rata-rata list.
+
 def rata_rata(data):
     if len(data) == 0:
         return 0

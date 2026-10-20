@@ -1,4 +1,4 @@
-# Mengubah, menambah, menyisipkan, dan menghapus elemen.
+
 nilai = [75, 80, 65]
 
 nilai[1] = 82

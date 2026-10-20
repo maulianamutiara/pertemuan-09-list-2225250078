@@ -1,4 +1,4 @@
-# Memilih nilai yang memenuhi batas kelulusan 60.
+
 nilai = [75, 55, 80, 60, 45, 90]
 lulus = []
 

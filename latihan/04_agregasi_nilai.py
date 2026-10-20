@@ -1,4 +1,4 @@
-# Menghitung statistik dasar dari list nilai.
+
 nilai = [75, 80, 65, 90, 88]
 
 print(f"Total = {sum(nilai)}")
